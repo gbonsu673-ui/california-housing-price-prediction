@@ -1,6 +1,6 @@
 # California Median Housing Price Prediction
 
-This is a hands-on introductory project from the [Hands-on Machine Learning with Scikit-Learn and PyTorch (1st edition):](https://ageron.github.io/)
+This is a hands-on introductory project from the O'Reilly book [Hands-on Machine Learning with Scikit-Learn and PyTorch (1st edition):](https://ageron.github.io/)
 
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/de0dba6a-d8a5-4f07-b075-1cf86ecab1b5" />
 
